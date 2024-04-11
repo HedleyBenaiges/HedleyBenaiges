@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Skill I have learnt          | Project to demonstrate|
+| Design and Implement a Network          | <a href="https://github.com/l51rl/SAFEBI-Network/tree/main">SAFEBI Network Design</a>|
 
 ### Tools
 
