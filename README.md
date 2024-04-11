@@ -18,6 +18,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Tools
 
+## Software Development
+Python
+HTML, JavaScript, CSS
+
+
 ## Networking
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white"/>
 Cisco Packet Tracer
