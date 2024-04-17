@@ -6,9 +6,8 @@ I have a passion for problem solving and am constantly finding new ways to chall
 
 ## Objective
 
-My journey through education led me to develop a passion for cyber security.
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey through education led me to develop a passion for cyber security.....
+TODO: Finish this
 
 ## Skills
 
