@@ -9,11 +9,13 @@ I have a passion for problem solving and am constantly finding new ways to chall
 My journey through education led me to develop a passion for cyber security.....
 TODO: Finish this
 
-## Skills
+## Projects
 
-| Skill                                         | Associated Project         |
+| Project                                         | Project Link         |
 |-----------------------------------------------|----------------------------|
 | Design and Implement a Network          | <a href="https://github.com/HedleyBenaiges/SAFEBI-Network/tree/main">SAFEBI Network Design</a>|
+| Procedural Animation (Unity)          | <a href="https://github.com/HedleyBenaiges/IK_Arm_Unity">Inverse Kinematics Armature</a>|
+
 
 ### Tools
 
