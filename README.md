@@ -2,7 +2,7 @@
 
 I am a cyber security student at the University of Warwick. I have a passion for problem solving and am constantly finding new ways to challenge myself. Here, you'll find a series of projects which I have been working on, all in the field of cyber-security and computer science.
 
-<a href="https://www.linkedin.com/in/hedley-benaiges-2179011b7"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hedl3yb"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 ## Projects
